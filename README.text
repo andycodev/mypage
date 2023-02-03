@@ -1,0 +1,4 @@
+
+#Ejecutar comando para levantar el proyecto
+
+npx tailwindcss src/styles.css -o public/stylesmin.css --watch
